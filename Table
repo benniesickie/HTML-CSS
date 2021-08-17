@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Spin-off of "Project: Recipe book"</title>
+        <meta charset="utf-8">
+        <style>
+        </style>
+    </head>
+    <body>
+       
+        <h1 id="top">Bennet's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#recipe1">Recipe #1</a></li>
+            <li><a href="#recipe2">Recipe #2</a>
+            </li>
+        </ol>
+        
+        <h2 id="recipe1">Recipe #1</h2>
+        
+        <ul>
+            <li>Time: 15 minutes </li>
+            <li>Serves: Big sausae with Mayo</li>
+        </ul>
+        
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/avatars/spunky-sam-red.png" width="107">
+        
+         <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr> 
+                <td> Sausage </td> 
+                <td> 150g </td> 
+            <tr> 
+                <td> Mayo </td> 
+                <td> 100g </td> 
+            </tr>
+                
+            </tr>
+            </tbody>
+        </table>
+        
+            <h3>Steps</h3>
+        <ol>
+        <li> Do something.</li>
+        <li> Undo everything you did </li>
+        <li> Repeat 1 and 2 until you die </li> 
+        </ol>
+        
+        <h2 id="recipe2">Recipe #2</h2>
+        
+                <ul>
+            <li>Time: 45 minutes </li>
+            <li>Serves: Racelette </li>
+        </ul>
+        
+        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/avatars/spunky-sam-orange.png">
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr> 
+                <td> Cheese </td> 
+                <td> 150g </td> 
+            <tr> 
+                <td> Pickle </td> 
+                <td> 100g </td> 
+            </tr>
+                
+            </tr>
+            </tbody>
+        </table>
+        
+        <h3>Steps</h3>
+        <ol>
+        <li> Do something.</li>
+        <li> Undo everything you did </li>
+        <li> Repeat 1 and 2 until you die </li> 
+</ol>
+        
+    <p><em>Source: <a href="https://www.youtube.com/watch?v=M5QY2_8704o&t=4304s&ab_channel=MusicLab">Some recipes websites</a></em></p>
+    
+    <a href="#top"> To the TOP</a>
+    
+    </body>
+</html>
